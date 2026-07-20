@@ -1,8 +1,0 @@
-{
-    "name": "AllRssProvider",
-    "description": "Test rss provider",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/jamesyip22/testext/refs/heads/main/builds/plugin.json"
-    ]
-}
