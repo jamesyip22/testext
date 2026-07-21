@@ -3,6 +3,6 @@
     "description": "Test rss provider",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/jamesyip22/testext/raw/builds/plugins.json"
+      "https://github.com/jamesyip22/testext/raw/builds/plugin.json"
     ]
 }
