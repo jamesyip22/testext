@@ -1,14 +1,12 @@
 [
     {
-        "fileHash": "sha256-9d484547da033b230df69221ef3d56036b9bc9a46a9117a50293f7d2f71f4939",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/local/CloudstreamPlugins",
-        "fileSize": 101863,
-        "status": 3,
+        "status": 1,
         "authors": [
             "example"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "AllRssProvider",
         "url": "https://github.com/jamesyip22/testext/raw/builds/AllRssProvider.cs3",
         "name": "AllRssProvider"
