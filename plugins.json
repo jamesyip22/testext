@@ -8,7 +8,7 @@
         "authors": [
             "example"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "AllRssProvider",
         "url": "https://github.com/jamesyip22/testext/raw/builds/AllRssProvider.cs3",
         "name": "AllRssProvider"
