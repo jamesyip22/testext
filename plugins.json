@@ -9,7 +9,7 @@
             "AllRSS"
         ],
         "description": "Asian drama, variety, movie and anime RSS provider",
-        "fileSize": 42250,
+        "fileSize": 42520,
         "repositoryUrl": "https://github.com/jamesyip22/testext",
         "language": "en",
         "tvTypes": [
@@ -18,6 +18,6 @@
             "Anime"
         ],
         "apiVersion": 1,
-        "fileHash": "sha256-5b2d970eff27ddaa98166e66fc340d861caed6123df81a4ac82e7ccd579ddd3e"
+        "fileHash": "sha256-aa681d6f995c89646c74a91ff409de7635de7de7038691f320aaa08cc84369b8"
     }
 ]
