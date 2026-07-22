@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/jamesyip22/testext/builds/RSSProvider.cs3",
         "status": 3,
-        "version": 6,
+        "version": 7,
         "name": "RSSProvider",
         "internalName": "RSSProvider",
         "authors": [
             "AllRSS"
         ],
         "description": "Asian drama, variety, movie and anime RSS provider",
-        "fileSize": 40297,
+        "fileSize": 42123,
         "repositoryUrl": "https://github.com/jamesyip22/testext",
         "language": "en",
         "tvTypes": [
@@ -18,6 +18,6 @@
             "Anime"
         ],
         "apiVersion": 1,
-        "fileHash": "sha256-38716e1f2b4abcba5e6d0c8ab8c3ae104f8a60ac37784330b6868a4f41367d0e"
+        "fileHash": "sha256-85167fdd851945338e7af6a81672d08341fadfb1ebffc939b957808824879dfc"
     }
 ]
